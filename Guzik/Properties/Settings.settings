@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Guzik.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="a" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">100, 185, 240</Value>
+    </Setting>
+    <Setting Name="b" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">70, 140, 210</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
